@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 # Script netstat lpn
 
-netstat -lpn
-
+sudo netstat -lp
